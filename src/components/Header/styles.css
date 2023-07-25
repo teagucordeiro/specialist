@@ -1,0 +1,26 @@
+img.avatar {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  padding: 3.7px;
+  border: rgba(255, 255, 0, 0.74) solid 4px;
+}
+
+.subtitle {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 400;
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  line-height: 1.5;
+  font-size: 16px;
+
+  margin-top: 2rem;
+}
+
+h1 {
+  font-size: 32px;
+  color: white;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
