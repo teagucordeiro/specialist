@@ -5,6 +5,7 @@ ul {
 
 ul li a {
   height: 53px;
+  padding: 0.3rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -23,4 +24,8 @@ ul li a {
 
 ul li a:hover {
   background-color: #364fc7;
+}
+
+ul li a span {
+  margin-left: 0.4rem;
 }

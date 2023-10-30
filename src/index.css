@@ -24,6 +24,12 @@ body {
   margin: 20px auto;
 }
 
+@media (max-width: 1000px) {
+  .container {
+    width: 80vw;
+  }
+}
+
 img {
   width: 100%;
 }

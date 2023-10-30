@@ -9,23 +9,46 @@ export function Links() {
     <ul>
       <li>
         <a href="https://www.instagram.com/especialistasmart/" target="_blank">
-          <AiOutlineInstagram /> Instagram
+          <AiOutlineInstagram /> <span>Instagram - Nova Cruz RN</span>
         </a>
       </li>
       <li>
-        <a href="https://instagram.com/thiagoty52" target="_blank">
-          <BsWhatsapp /> Especialista Smart - Nova Cruz RN
+        <a
+          href="https://www.instagram.com/especialistasmartpedrovelho/"
+          target="_blank"
+        >
+          <AiOutlineInstagram /> <span>Instagram - Pedro Veho RN</span>
         </a>
       </li>
       <li>
-        <a href="https://twitter.com/thiagoty52" target="_blank">
+        <a
+          href="https://www.instagram.com/especialistasmartextremoz/"
+          target="_blank"
+        >
+          <AiOutlineInstagram /> <span>Instagram - Extremoz RN</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://wa.me/5584988150905" target="_blank">
+          <BsWhatsapp /> <span>WhatsApp - Nova Cruz RN</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://wa.me/5584981876850" target="_blank">
           <BsWhatsapp />
-          Especialista Smart - Pedro Veho RN
+          <span>WhatsApp - Pedro Velho RN</span>
         </a>
       </li>
       <li>
-        <a href="https://github.com/ThiagoCordeiro52" target="_blank">
-          <BsTiktok /> Especialista Smart (@especialistasmart) | TikTok
+        <a href="https://wa.me/5584988233498" target="_blank">
+          <BsWhatsapp />
+          <span>WhatsApp - Extremoz RN</span>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.tiktok.com/@especialistasmart" target="_blank">
+          <BsTiktok />
+          <span> @especialistasmart | TikTok</span>
         </a>
       </li>
     </ul>
