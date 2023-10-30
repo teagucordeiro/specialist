@@ -5,7 +5,7 @@ import "./styles.css";
 export function Header() {
   return (
     <>
-      <img className="avatar" src={LogoImage} alt="Thiago profile image" />
+      <img className="avatar" src={LogoImage} alt="Especialista logo" />
       <h1>@especialistasmart</h1>
       <p className="subtitle">Vem Pra Especialista... Vem Pra Melhor!!!</p>
     </>

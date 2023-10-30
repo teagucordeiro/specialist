@@ -16,7 +16,7 @@ ul li a {
 
   overflow-wrap: break-word;
 
-  margin-bottom: 16px;
+  margin-bottom: 0.8rem;
   border-radius: 6px;
 
   transition: background 400ms;
