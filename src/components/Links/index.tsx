@@ -17,7 +17,7 @@ export function Links() {
           href="https://www.instagram.com/especialistasmartpedrovelho/"
           target="_blank"
         >
-          <AiOutlineInstagram /> <span>Instagram - Pedro Veho RN</span>
+          <AiOutlineInstagram /> <span>Instagram - Pedro Velho RN</span>
         </a>
       </li>
       <li>
