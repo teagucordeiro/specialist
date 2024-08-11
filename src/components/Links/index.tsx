@@ -21,14 +21,6 @@ export function Links() {
         </a>
       </li>
       <li>
-        <a
-          href="https://www.instagram.com/especialistasmartextremoz/"
-          target="_blank"
-        >
-          <AiOutlineInstagram /> <span>Instagram - Extremoz RN</span>
-        </a>
-      </li>
-      <li>
         <a href="https://wa.me/5584988150905" target="_blank">
           <BsWhatsapp /> <span>WhatsApp - Nova Cruz RN</span>
         </a>
@@ -37,12 +29,6 @@ export function Links() {
         <a href="https://wa.me/5584981876850" target="_blank">
           <BsWhatsapp />
           <span>WhatsApp - Pedro Velho RN</span>
-        </a>
-      </li>
-      <li>
-        <a href="https://wa.me/5584988233498" target="_blank">
-          <BsWhatsapp />
-          <span>WhatsApp - Extremoz RN</span>
         </a>
       </li>
       <li>
